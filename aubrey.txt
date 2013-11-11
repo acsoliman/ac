@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi its me aubrey camille!!
+=======
+hi its me aubrey camille soliman!
+>>>>>>> 67c82de7da3b33a79f6f2891a10b2063da379eb4
